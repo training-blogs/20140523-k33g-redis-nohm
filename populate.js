@@ -43,6 +43,5 @@ redis.on("ready", function (err) {
     }
 
     console.log("the end");
-    process.exit(1);
 
 });
